@@ -1,2 +1,3 @@
 Ini fitur 1
-Ini fitur
+Ini fitur 2
+Ini barus baru ditambahkan di Github
