@@ -13,7 +13,7 @@ public class sistemHostpotKampus17 {
             System.out.println("Akses WiFi diberikan (dosen)");
         } else if(pengguna.equalsIgnoreCase("mahasiswa")){
             System.out.print("Masukkan jumlah SKS: ");
-            SKS = sc.nextInt();
+            SKS = sc.nextInt();  
             if(SKS >= 12){
                 System.out.println("Akses WiFi diberikan (mahasiswa aktif)");
             } else {
