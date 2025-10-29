@@ -7,14 +7,14 @@ public class Triangle17 {
         System.out.print("Masukkan nilai n = ");
         int n = s.nextInt();
 
-        int i = 1;          // mulai dari 1 biar baris pertama ada 1 bintang
+        int i = 1;       
         while (i <= n) {
             int j = 0;
             while (j < i) {
                 System.out.print("*");
                 j++;
             }
-            System.out.println();   // <-- supaya pindah ke baris baru
+            System.out.println();   
             i++;
         }
     }
