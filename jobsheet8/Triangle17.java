@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Triangle17 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-
         System.out.print("Masukkan nilai n = ");
         int n = s.nextInt();
 
